@@ -1,0 +1,5 @@
+bash 5.2.37 for tOS
+==============
+
+Built from bash-5.2.37.tar.gz (beside this package) on a Linux host with prefix /system/pkg/bash, without changes to the source. License: GPL-3.0-or-later (LICENSE).
+glibc: dynamically linked against the GNU C Library, which tOS's base system carries.

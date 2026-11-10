@@ -1,0 +1,24 @@
+{
+ "name": "bash",
+ "version": "5.2.37",
+ "license": "GPL-3.0-or-later",
+ "homepage": "",
+ "licenses": [
+  "LICENSE",
+  "NOTICE.txt"
+ ],
+ "sources": [
+  "bash-5.2.37.tar.gz"
+ ],
+ "desc": "GNU Bash 5.2.37, the shell most scripts ask for (#!/bin/bash)",
+ "file": "bash-5.2.37.tpkg",
+ "size": 823812,
+ "sha256": "55ab48168da613ea8f11bf227a45738e1029cc939a7d5cd475842d88a229fac5",
+ "unpacked": 2271273,
+ "min_build": 619,
+ "depends": [],
+ "commands": {
+  "bash": "bin/bash",
+  "bashbug": "bin/bashbug"
+ }
+}
